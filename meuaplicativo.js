@@ -10,8 +10,8 @@ console.log("cidade: Schroeder");
 console.log("atividade de interesse: progrmaçao ");
 
 
- console.log("quero apredender: croche");
+ console.log("quero apredender: francês");
 
 
-console.log("área profissional de interesse : TI");
+console.log("área profissional de interesse : fisioterapia");
 console.log("obrigado por me conhecer!");
